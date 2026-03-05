@@ -89,6 +89,5 @@
   },
   "registeredAt": "2026-03-05T08:06:39.477Z",
   "registeredBy": "arn:aws:sts::144770673083:assumed-role/voclabs/user3644825=ALEJANDRO_CAJAL_BERNU__S",
-  "enableFaultInjection": false,
   "tags": []
 }
